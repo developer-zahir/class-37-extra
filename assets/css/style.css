@@ -220,7 +220,7 @@ header .color_picker .color_picker_inner h5 {
   color: #333;
   margin-top: 7px;
   border-bottom: 1px solid #ddd;
-  padding-bottom: 10px;
+padding-bottom: 13px;
 }
 
 header .color_picker .color_picker_inner ul {
