@@ -1032,6 +1032,7 @@ footer .item_inner .item_content .icon ul {
 
 footer .item_inner .item_content .icon ul li {
   display: inline-block;
+    list-style: none;
 }
 
 footer .item_inner .item_content .icon ul li::before {
