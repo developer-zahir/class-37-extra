@@ -57,7 +57,8 @@ nav{
 /*============== (~ header ~) =================*/
 header {
     height: 100vh;
-    background: url(../image/herobg.jpg);
+      background: url(../image/herobg.jpg) rgba(0, 0, 0, 0.61);
+    background-blend-mode: multiply;
     background-repeat: no-repeat;
     background-position: center center;
     position: relative;
